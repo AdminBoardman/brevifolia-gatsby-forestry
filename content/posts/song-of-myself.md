@@ -5,7 +5,7 @@ author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---
-You have heard what the talkers were talking, the talk of the  
+We have heard what the talkers were talking, the talk of the  
 beginning.
 
 But I do not talk of the beginning or the end. There was never any more inception than there is now, Nor any more youth or age than there is now, And will never be any more perfection than there is now,  
