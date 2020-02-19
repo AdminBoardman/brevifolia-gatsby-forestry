@@ -22,7 +22,7 @@ export default function Blog(props) {
       return allSlugs[0]
     }
   }
-
+//  comment
   return (
     <Layout>
       <article className={blogTemplateStyles.blog}>
